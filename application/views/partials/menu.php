@@ -10,7 +10,7 @@
         if ($this->ion_auth->in_group(array('admin'))){
         ?>
         <li class="nav-item">
-            <a href="<?php echo site_url('kriteria/index'); ?>" class="nav-link">
+            <a href="<?php echo site_url('kriteria'); ?>" class="nav-link">
             <i class="nav-icon fas fa-file-excel"></i>
               <p>
                 Data Kriteria
