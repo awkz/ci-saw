@@ -17,7 +17,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | environments.
 |
 */
-$config['base_url'] = 'http://localhost/ci-starterkit';
+$config['base_url'] = 'http://localhost/ci-saw';
 
 /*
 |--------------------------------------------------------------------------
@@ -500,4 +500,4 @@ $config['rewrite_short_tags'] = FALSE;
 */
 $config['proxy_ips'] = '';
 
-$config['APPNAME'] = 'CI-STARTERKIT';
+$config['APPNAME'] = 'CI-SAW';
